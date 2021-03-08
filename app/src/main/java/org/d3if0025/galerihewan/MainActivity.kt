@@ -22,16 +22,16 @@ class MainActivity : AppCompatActivity() {
     }
     private fun getData(): List<Hewan> {
         return listOf(
-            Hewan("Angsa", "Cygnus olor", R.drawable.angsa),
-            Hewan("Ayam", "Gallus gallus", R.drawable.ayam),
-            Hewan("Bebek", "Cairina moschata", R.drawable.bebek),
-            Hewan("Domba", "Ovis ammon", R.drawable.domba),
-            Hewan("Kalkun", "Meleagris gallopavo", R.drawable.kalkun),
-            Hewan("Kambing", "Capricornis sumatrensis", R.drawable.kambing),
-            Hewan("Kelinci", "Oryctolagus cuniculus", R.drawable.kelinci),
-            Hewan("Kerbau", "Bubalus bubalis", R.drawable.kerbau),
-            Hewan("Kuda", "Equus caballus", R.drawable.kuda),
-            Hewan("Sapi", "Bos taurus", R.drawable.sapi)
+            Hewan("Angsa", "Cygnus olor", R.drawable.angsa,"THIS IS TENDO MAYA !"),
+            Hewan("Ayam", "Gallus gallus", R.drawable.ayam,"Winner winner chicken dinner"),
+            Hewan("Bebek", "Cairina moschata", R.drawable.bebek,"PANGKAT KAU BEBEK"),
+            Hewan("Domba", "Ovis ammon", R.drawable.domba,"Domba antaris dan domba tersesat"),
+            Hewan("Kalkun", "Meleagris gallopavo", R.drawable.kalkun,"Turkey"),
+            Hewan("Kambing", "Capricornis sumatrensis", R.drawable.kambing,"Messi is the GOAT"),
+            Hewan("Kelinci", "Oryctolagus cuniculus", R.drawable.kelinci,"RABBIT ! TANK ! BEST MATCH !"),
+            Hewan("Kerbau", "Bubalus bubalis", R.drawable.kerbau,"Barathrum"),
+            Hewan("Kuda", "Equus caballus", R.drawable.kuda,"RIP JEAN BOY,MALAH JADI TITAN"),
+            Hewan("Sapi", "Bos taurus", R.drawable.sapi,"EI EI OH !")
         )
     }
 
