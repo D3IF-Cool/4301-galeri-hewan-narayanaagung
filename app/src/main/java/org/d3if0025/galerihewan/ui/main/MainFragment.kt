@@ -7,9 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.observe
-import org.d3if0025.galerihewan.Hewan
 import org.d3if0025.galerihewan.MainAdapter
-import org.d3if0025.galerihewan.R
 import org.d3if0025.galerihewan.databinding.FragmentMainBinding
 
 
